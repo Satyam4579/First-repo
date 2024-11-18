@@ -1,2 +1,3 @@
 # First-repo
-Name= Satyam
+Welcome To My First Repository
+Name= Satyam Bind
